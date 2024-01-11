@@ -1,2 +1,3 @@
 # teach-django-python
-Un pequeño workshop de Python y Django
+
+Un breve workshop de Python y Django, solamente mostrando las cosas mas básicas.
